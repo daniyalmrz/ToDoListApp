@@ -23,15 +23,19 @@ IDE: Android Studio
 1. Install Flutter by following the official installation guide: https://flutter-ko.dev/get-started/install
 
 2. Clone the Repository
+
    git clone https://github.com/daniyalmrz/ToDoListApp.git
 
-3. Navigate to the project directory:
+4. Navigate to the project directory:
+
    cd Listify
 
-4. Install Dependencies:
+6. Install Dependencies:
+
    flutter pub get
 
-5. Run the App:
+8. Run the App:
+
    flutter run
 
 ## Screenshots
