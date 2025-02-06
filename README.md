@@ -6,12 +6,16 @@ It offers a user-friendly interface with essential task management features to i
 ## Features
 
 i. Add, edit, and delete tasks easily.
+
 ii. Mark tasks as completed or pending.
+
 iii. Responsive UI with a modern design.
 
 ## Tech Stack
 Framework: Flutter
+
 Programming Language: Dart
+
 IDE: Android Studio
 
 ## Setup Instructions
@@ -47,6 +51,7 @@ IDE: Android Studio
 ## Author Information
 
 Mohd Daniyal
+
 Linkedin: https://www.linkedin.com/in/daniyalmrz
 
 For help getting started with Flutter development, view the
