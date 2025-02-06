@@ -23,7 +23,7 @@ IDE: Android Studio
 1. Install Flutter by following the official installation guide: https://flutter-ko.dev/get-started/install
 
 2. Clone the Repository
-   git clone https://github.com/daniyalmrz/Listify.git
+   git clone https://github.com/daniyalmrz/ToDoListApp.git
 
 3. Navigate to the project directory:
    cd Listify
@@ -53,6 +53,8 @@ IDE: Android Studio
 Mohd Daniyal
 
 Linkedin: https://www.linkedin.com/in/daniyalmrz
+
+View my Verified Badges: https://beacons.ai/daniyalmrz
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
